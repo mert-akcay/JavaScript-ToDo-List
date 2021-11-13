@@ -1,0 +1,26 @@
+.button-style {
+    /* margin-left:8.5%; */ 
+    margin-left:10.8%;
+    margin-top: -8px;
+    width: 5%; 
+    height: 70%;
+    position:static
+}
+
+.text-side {
+    margin-left: 0px; 
+    font-size: 20px; 
+    color: #ABD2FA;
+}
+
+.main-object {
+    height: 50px; 
+    border-radius: 10px;
+}
+
+.check {
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 30px;
+}
+
